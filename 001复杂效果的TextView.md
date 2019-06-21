@@ -1,0 +1,8 @@
+- [https://github.com/lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
+- [https://github.com/RuffianZhong/RTextView](https://github.com/RuffianZhong/RTextView)
+- [https://github.com/TruthKeeper/CompatTextView](https://github.com/TruthKeeper/CompatTextView)
+- [https://github.com/JavaNoober/BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary)
+- [https://github.com/ithedan/CustomTextLayout](https://github.com/ithedan/CustomTextLayout)
+- [https://github.com/RuffianZhong/RWidgetHelper](https://github.com/RuffianZhong/RWidgetHelper)
+- [https://github.com/chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView)
+- [https://github.com/Cricin/Folivora](https://github.com/Cricin/Folivora)
