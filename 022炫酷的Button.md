@@ -5,3 +5,4 @@
 - [https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle "FABProgressCircle")
 - [https://github.com/cctanfujun/ProgressRoundButton](https://github.com/cctanfujun/ProgressRoundButton "ProgressRoundButton")
 - [https://github.com/ishaan1995/ButtonProgressBar](https://github.com/ishaan1995/ButtonProgressBar "ButtonProgressBar")
+- [https://github.com/lygttpod/AndroidCustomView](https://github.com/lygttpod/AndroidCustomView "AndroidCustomView")
