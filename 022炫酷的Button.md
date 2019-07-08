@@ -6,3 +6,7 @@
 - [https://github.com/cctanfujun/ProgressRoundButton](https://github.com/cctanfujun/ProgressRoundButton "ProgressRoundButton")
 - [https://github.com/ishaan1995/ButtonProgressBar](https://github.com/ishaan1995/ButtonProgressBar "ButtonProgressBar")
 - [https://github.com/lygttpod/AndroidCustomView](https://github.com/lygttpod/AndroidCustomView "AndroidCustomView")
+- [https://github.com/leandroBorgesFerreira/LoadingButtonAndroid](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid "LoadingButtonAndroid")
+- [https://github.com/snadjafi/LoadingButton](https://github.com/snadjafi/LoadingButton "LoadingButton")
+- [https://github.com/koushikcse/LoadingButton](https://github.com/koushikcse/LoadingButton "LoadingButton")
+- [https://github.com/FlodCoding/LoadingButton](https://github.com/FlodCoding/LoadingButton "LoadingButton")
