@@ -2,3 +2,4 @@
 - [https://blog.csdn.net/u013718120/article/details/86621278](https://blog.csdn.net/u013718120/article/details/86621278)
 - [https://juejin.im/post/5cd9875ae51d453d022cb662](https://juejin.im/post/5cd9875ae51d453d022cb662)
 - [https://book.flutterchina.club/chapter3/flutter_widget_intro.html](https://book.flutterchina.club/chapter3/flutter_widget_intro.html "flutter_widget_intro")
+- [https://www.jianshu.com/p/de459708d9ed](https://www.jianshu.com/p/de459708d9ed "flutter系列")
