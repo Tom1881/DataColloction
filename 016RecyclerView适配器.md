@@ -3,3 +3,4 @@
 - [https://github.com/CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper "BaseRecyclerViewAdapterHelper")
 - [https://github.com/CarGuo/LazyRecyclerAdapter](https://github.com/CarGuo/LazyRecyclerAdapter "LazyRecyclerAdapter")
 - [https://github.com/yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView "SwipeRecyclerView")
+- [https://github.com/hgDendi/ExpandableRecyclerView](https://github.com/hgDendi/ExpandableRecyclerView "ExpandableRecyclerView")
