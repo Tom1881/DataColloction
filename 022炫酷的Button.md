@@ -10,3 +10,4 @@
 - [https://github.com/snadjafi/LoadingButton](https://github.com/snadjafi/LoadingButton "LoadingButton")
 - [https://github.com/koushikcse/LoadingButton](https://github.com/koushikcse/LoadingButton "LoadingButton")
 - [https://github.com/FlodCoding/LoadingButton](https://github.com/FlodCoding/LoadingButton "LoadingButton")
+- [https://github.com/ansnail/SuperButton](https://github.com/ansnail/SuperButton "SuperButton")

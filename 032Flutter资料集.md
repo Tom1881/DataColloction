@@ -3,3 +3,6 @@
 - [https://juejin.im/post/5cd9875ae51d453d022cb662](https://juejin.im/post/5cd9875ae51d453d022cb662)
 - [https://book.flutterchina.club/chapter3/flutter_widget_intro.html](https://book.flutterchina.club/chapter3/flutter_widget_intro.html "flutter_widget_intro")
 - [https://www.jianshu.com/p/de459708d9ed](https://www.jianshu.com/p/de459708d9ed "flutter系列")
+- [https://github.com/ibhavikmakwana/flutter_finger_scan_animation](https://github.com/ibhavikmakwana/flutter_finger_scan_animation "flutter")
+- [https://github.com/simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer "flutter_deer")
+- [https://github.com/yangchong211/YCFlutterToast](https://github.com/yangchong211/YCFlutterToast "YCFlutterToast")
