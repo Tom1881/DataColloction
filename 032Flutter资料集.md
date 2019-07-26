@@ -6,3 +6,4 @@
 - [https://github.com/ibhavikmakwana/flutter_finger_scan_animation](https://github.com/ibhavikmakwana/flutter_finger_scan_animation "flutter")
 - [https://github.com/simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer "flutter_deer")
 - [https://github.com/yangchong211/YCFlutterToast](https://github.com/yangchong211/YCFlutterToast "YCFlutterToast")
+- [https://github.com/lijinshanmx/flutter_gank](https://github.com/lijinshanmx/flutter_gank "flutter_gank")
