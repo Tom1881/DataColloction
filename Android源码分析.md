@@ -2,3 +2,4 @@
 - [https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis "AndroidSdkSourceAnalysis")
 - [https://www.jianshu.com/p/ae50fca65b8e](https://www.jianshu.com/p/ae50fca65b8e "Activity启动流程")
 - [https://github.com/android-cn/android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis "源码解析")
+- [https://github.com/simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis "Android源码设计模式分析")
