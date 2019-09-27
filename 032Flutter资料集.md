@@ -8,3 +8,4 @@
 - [https://github.com/yangchong211/YCFlutterToast](https://github.com/yangchong211/YCFlutterToast "YCFlutterToast")
 - [https://github.com/lijinshanmx/flutter_gank](https://github.com/lijinshanmx/flutter_gank "flutter_gank")
 - [http://www.apkbus.com/flutter_book/](http://www.apkbus.com/flutter_book/ "flutter")
+- [https://juejin.im/post/5bab35ff5188255c3272c228?utm_source=gold_browser_extension](https://juejin.im/post/5bab35ff5188255c3272c228?utm_source=gold_browser_extension)
