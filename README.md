@@ -4,3 +4,6 @@
 
 # 阿里云开源镜像
 'http://maven.aliyun.com/nexus/content/groups/public/'
+
+# 二级联动（仿饿了么）
+https://github.com/KunMinX/Linkage-RecyclerView
