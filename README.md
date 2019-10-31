@@ -14,5 +14,5 @@ https://shixian.com/consultants
 # 不同项目git忽略文件配置
 https://github.com/github/gitignore
 
-# 开关
+# 自定义开关按钮
 https://github.com/kyleduo/SwitchButton
