@@ -20,3 +20,6 @@ https://github.com/kyleduo/SwitchButton
 # 视频库
 https://github.com/microshow/RxFFmpeg
 https://github.com/yhaolpz/FFmpegCmd
+
+# Android UI库
+https://github.com/xuexiangjys/XUI
