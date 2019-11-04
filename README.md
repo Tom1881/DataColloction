@@ -33,3 +33,7 @@
 
 # Android UI库
 - https://github.com/xuexiangjys/XUI
+
+# 状态栏管理
+- https://github.com/laobie/StatusBarUtil
+- https://github.com/gyf-dev/ImmersionBar
