@@ -38,3 +38,12 @@
 # 状态栏管理
 - https://github.com/laobie/StatusBarUtil
 - https://github.com/gyf-dev/ImmersionBar
+
+# 二维码
+- https://github.com/yipianfengye/android-zxingLibrary
+- https://github.com/wangpeiyuan/ZxingBarCode
+- https://github.com/SumiMakito/AwesomeQRCode
+- https://github.com/bingoogolapple/BGAQRCode-Android
+- https://github.com/nanchen2251/AiYaScanner
+- https://github.com/devilsen/CZXing
+- https://github.com/wangpeiyuan/ZxingBarCode
