@@ -11,6 +11,9 @@
 # 外包网站
 - https://shixian.com/consultants
 
+# 图标
+- https://www.materialpalette.com/icons
+
 # 不同项目git忽略文件配置
 - https://github.com/github/gitignore
 
