@@ -11,6 +11,9 @@
 # 外包网站
 - https://shixian.com/consultants
 
+# 学习网站
+- 牛客网 https://www.nowcoder.com/
+
 # 图标
 - https://www.materialpalette.com/icons
 - https://www.iconfont.cn/
