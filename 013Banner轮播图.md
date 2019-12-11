@@ -3,3 +3,4 @@
 - [https://github.com/bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android "BGABanner-Android")
 - [https://github.com/GitPhoenix/ADViewPager](https://github.com/GitPhoenix/ADViewPager "ADViewPager")
 - [https://github.com/pinguo-zhouwei/MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView)
+- https://github.com/zhpanvip/BannerViewPager
