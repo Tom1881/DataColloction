@@ -57,4 +57,3 @@
 - https://github.com/bingoogolapple/BGAQRCode-Android
 - https://github.com/nanchen2251/AiYaScanner
 - https://github.com/devilsen/CZXing
-- https://github.com/wangpeiyuan/ZxingBarCode
