@@ -58,3 +58,9 @@
 - https://github.com/bingoogolapple/BGAQRCode-Android
 - https://github.com/nanchen2251/AiYaScanner
 - https://github.com/devilsen/CZXing
+
+
+
+# 多View嵌套滚动方案
+
+- https://github.com/baiduapp-tec/ELinkageScroll
