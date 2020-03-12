@@ -29,6 +29,7 @@
 # 自定义开关按钮
 - https://github.com/kyleduo/SwitchButton
 - https://github.com/zcweng/SwitchButton
+- https://github.com/bitvale/Switcher
 
 # 视频库
 - https://github.com/microshow/RxFFmpeg
