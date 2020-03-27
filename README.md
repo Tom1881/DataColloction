@@ -14,9 +14,6 @@
 # 二级联动（仿饿了么）
 - https://github.com/KunMinX/Linkage-RecyclerView
 
-# 外包网站
-- https://shixian.com/consultants
-
 # 学习网站
 - 牛客网 https://www.nowcoder.com/
 - Web前端导航 http://www.alloyteam.com/nav/index.html
