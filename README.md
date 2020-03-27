@@ -5,6 +5,12 @@
 # 阿里云开源镜像
 - http://maven.aliyun.com/nexus/content/groups/public/
 
+# 计算机基础课程
+- 操作系统
+- 汇编语言
+- 计算机网络
+- 计算机组成原理
+
 # 二级联动（仿饿了么）
 - https://github.com/KunMinX/Linkage-RecyclerView
 
