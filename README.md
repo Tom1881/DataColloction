@@ -30,6 +30,9 @@
 - https://github.com/zcweng/SwitchButton
 - https://github.com/bitvale/Switcher
 
+# 图片
+- https://github.com/MikaelZero/mojito （微信、bilibili大图、长图、gif、视频、自定义view的转场效果）
+
 # 视频库
 - https://github.com/microshow/RxFFmpeg
 - https://github.com/yhaolpz/FFmpegCmd
