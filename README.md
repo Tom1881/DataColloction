@@ -70,6 +70,9 @@
 # 雷达图
 - https://github.com/hewking/TanTanRippleView （仿探探）
 
+# 圆角View
+- https://github.com/iamyours/EasyWidgets
+
 
 
 # 多View嵌套滚动方案
