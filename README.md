@@ -59,6 +59,11 @@
 - https://github.com/nanchen2251/AiYaScanner
 - https://github.com/devilsen/CZXing
 
+# 音视频项目入门
+- https://github.com/cats-oss/android-gpuimage
+- https://github.com/saki4510t/AudioVideoRecordingSample
+- https://github.com/google/grafika
+
 
 
 # 多View嵌套滚动方案
