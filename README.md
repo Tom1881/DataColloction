@@ -46,6 +46,7 @@
 - https://github.com/bytedance/xgplayer
 - https://github.com/bilibili/ijkplayer
 - https://github.com/junerver/VideoRecorder
+- https://github.com/google/ExoPlayer
 
 # Android UI库
 - https://github.com/xuexiangjys/XUI
